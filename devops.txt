@@ -9,3 +9,7 @@ Prometheus
 Grafana
 Docker
 Docker swarm
+Kubernetes
+Kubernetes HELM
+CRIO 
+LXC
