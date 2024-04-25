@@ -13,3 +13,8 @@ Kubernetes
 Kubernetes HELM
 CRIO 
 LXC
+
+
+Hadoop
+Spark
+Scala
