@@ -5,3 +5,7 @@ Maven
 Nexus
 Tomcat
 Sonarqube
+Prometheus
+Grafana
+Docker
+Docker swarm
