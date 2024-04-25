@@ -1,0 +1,7 @@
+Linux and Shell
+Git and GitHub
+Jenkins
+Maven
+Nexus
+Tomcat
+Sonarqube
